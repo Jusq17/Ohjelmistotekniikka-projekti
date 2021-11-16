@@ -26,3 +26,12 @@ Sovelluksen perustoiminnallisuus:
     - Itse pelin pelaaminen käy kuten normaalissa sudokussa yleensä. Pelaaja täydentää tyhjät paikat valitsemallaan numerolla (1-9).
     - Kun pelaaja on valmis, hän voi tarkastaa ratkaisun nappia painamalla ja sovellus ilmoittaa onko sudoku valmis.
     
+Jatkokehitysideoita:
+
+Perusversion jälkeen sovellusta voi parantaa lisäämällä esimerkiksi:
+
+    - Online leaderboardit
+    - Kirjautumisjärjestelmä, joka korvaa pelin alkaessa annettavan nimen
+    - Valmiiksi tehtyjä sudoku-matriiseja, joista voi muodostaa level-systemin
+    - Sovelluksen yleistä optimointia
+    
