@@ -2,15 +2,16 @@ Vaatimusmäärittely
 
 Sovelluksen tarkoitus:
 
-Sovellus on sudoku-peli, jolla on graafinen käyttöliittymä. Sovellus tekee 9x9 sudokun, jonka pelaaja ratkaisee käyttöliittymää käyttäen.
+    Sovellus on sudoku-peli, jolla on graafinen käyttöliittymä. Sovellus tekee 9x9 sudokun, jonka pelaaja ratkaisee käyttöliittymää käyttäen.
 
 Käyttäjät:
 
-Sovellus on yksinpelattava peli, joten se tarvitsee vain yksittäisen peruskäyttäjän.
+    Sovellus on yksinpelattava peli, joten se tarvitsee vain yksittäisen peruskäyttäjän.
 
 Käyttöliittymä:
 
 Sovelluksella on kaksi näkymää:
+
     - Menu, josta voi aloittaa pelin tai lopettaa sovelluksen
     - Pelinäkymä, jossa varsinainen sudokun pelaaminen tapahtuu
 
