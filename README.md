@@ -13,7 +13,7 @@ Tarkemmat tiedot sovelluksen toiminnallisuudesta löytyvät dokumentaatiosta.
 ## Ohjelman asentaminen ja ajaminen:
 Pelin ajamiseen vaaditaan src kansio ja poetry.lock ja pyproject.toml tiedostot.
 
-Helpointa on ladata tästä repositoriosta zip tiedosto.(Vaikka dokumentaatio tiedostoja ei tarvitse)
+Helpointa on ladata tästä repositorista zip tiedosto (vaikka dokumentaatio tiedostoja ei tarvita).
 
 ### Asenna poetry komentorivillä komennolla
 
