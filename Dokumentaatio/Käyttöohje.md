@@ -3,7 +3,8 @@
 ## Konfigurointi:
 
 - Pelattavat sudoku-matriisit ovat tallenettuna sudoku_grids.txt tiedostoon, josta sovellus lukee ja lataa ne.
-- Pelaaja voi siis halutessaan käydä muokkaamassa sudokuja tai laittaa aivan uuden sudokun tiedostoon. Sudoku pitää kuitenkin olla kunnollinen. Sovellus ei korjaa siitä virheitä
+- Pelaaja voi siis halutessaan käydä muokkaamassa sudokuja tai laittaa aivan uuden sudokun tiedostoon. Sudoku pitää kuitenkin olla kunnollinen. Sovellus ei korjaa siitä virheitä.
+- Uusi sudoku tarvitsee myös oman matriisin sudoku_answers.py tiedostossa, jotta "show answer" nappi näyttää oikean vastauksen.
 
 ## Ohjelman ajaminen:
 
