@@ -8,7 +8,7 @@ Tarkemmat tiedot sovelluksen toiminnallisuudesta löytyvät dokumentaatiosta.
 ## Dokumentaatio
 
 [Vaatimusmäärittely](Dokumentaatio/vaatimusmaarittely.md)  
-[Käyttöohje](Dokumentaatio/käyttöohje)
+[Käyttöohje](Dokumentaatio/Käyttöohje.md)
 
 ## Ohjelman asentaminen ja ajaminen:
 Pelin ajamiseen vaaditaan src kansio ja poetry.lock ja pyproject.toml tiedostot.
