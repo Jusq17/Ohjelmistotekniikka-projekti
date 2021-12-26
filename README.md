@@ -11,9 +11,13 @@ Tarkemmat tiedot sovelluksen toiminnallisuudesta löytyvät dokumentaatiosta.
 [Käyttöohje](Dokumentaatio/käyttöohje)
 
 ## Ohjelman asentaminen ja ajaminen:
-Pelin ajamiseen vaaditaan vain src kansio ja sen sisältämät tiedostot.
+Pelin ajamiseen vaaditaan src kansio ja poetry.lock ja pyproject.toml tiedostot.
 
-Ennen kuin pelin voi käynnistää pitää asentaa riippuvuudet komennolla:
+### Asenna poetry komentorivillä komennolla
+
+- pip install poetry
+
+Asenna riippuvuudet komennolla:
 
 - poetry install
 
