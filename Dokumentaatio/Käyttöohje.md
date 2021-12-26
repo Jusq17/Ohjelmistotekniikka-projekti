@@ -15,6 +15,8 @@ Sitten pelin voi aloittaa src/ kansiossa komennolla:
 
 - poetry run python3 sudoku.py
 
+Pelin toiminnot:
+
 Kun peli alkaa, ensimmäiseksi tulee näkyviin start menu:
 
 ![startmenu](https://user-images.githubusercontent.com/86538024/147418557-257f1a4f-e76c-4ee8-ad6b-4cadc8496802.JPG)
