@@ -19,7 +19,7 @@ Helpointa on ladata tästä repositoriosta zip tiedosto.(Vaikka dokumentaatio ti
 
 - pip install poetry
 
-Asenna riippuvuudet src kansiota ylemmällä tasolla komennolla:
+Asenna riippuvuudet puretun zip:n päätasolla (missä poetry lock tiedosto on) komennolla:
 
 - poetry install
 
