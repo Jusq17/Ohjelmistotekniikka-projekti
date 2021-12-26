@@ -10,28 +10,27 @@ Käyttäjät:
 
 Käyttöliittymä:
 
-Sovelluksella on kaksi näkymää:
+Sovelluksella on kolme näkymää:
 
     - Menu, josta voi aloittaa pelin tai lopettaa sovelluksen
+    - Leveli menu, josta voi ladata levelin 1-8 tai lopettaa sovelluksen
     - Pelinäkymä, jossa varsinainen sudokun pelaaminen tapahtuu
 
 Sovelluksen perustoiminnallisuus:
-
-    - Käyttäjä voi luoda itselleen nimen pelin alkaessa(default = "guest")
-    - Käyttäjän sudokun ratkaisemiseen kestävä aika tallenetaan nimelle
     
-    - Pelin alkaessa sovellus luo sudoku-matriisin ja tarkastaa algoritmilla, onko matriisi ratkaistavissa vai ei.
-    - Sovellus löytää sopivan matriisin tällä menetelmällä
+    - Pelin alkaessa valittu leveli ladataan tekstitiedostosta.
+    - Pelaaja voi halutessaan käydä muuttamassa sudoku-matriiseja, mutta jos matriisi rikkoo sudokun sääntöjä, ei oikeaa vastausta ole olemassa.
     
     - Itse pelin pelaaminen käy kuten normaalissa sudokussa yleensä. Pelaaja täydentää tyhjät paikat valitsemallaan numerolla (1-9).
-    - Kun pelaaja on valmis, hän voi tarkastaa ratkaisun nappia painamalla ja sovellus ilmoittaa onko sudoku valmis.
+    - Muutettavissa olevat ruudut ovat valkoisia ja tyhjiä. Niiden arvoa voi kasvattaa tai vähentää yhdellä hiiripainikkeilla. Alkuarvo on nolla
+    - Kun pelaaja on valmis, hän voi tarkastaa ratkaisun nappia painamalla ja sovellus ilmoittaa onko sudoku ratkaistu oikein vai ei.
     
 Jatkokehitysideoita:
 
 Perusversion jälkeen sovellusta voi parantaa lisäämällä esimerkiksi:
 
     - Online leaderboardit
-    - Kirjautumisjärjestelmä, joka korvaa pelin alkaessa annettavan nimen
-    - Valmiiksi tehtyjä sudoku-matriiseja, joista voi muodostaa level-systemin
+    - Kirjautumisjärjestelmä
+    - Randomin sudoku-matriisin voisi generoida algoritmilla. Ns. "random pelimuoto"
     - Sovelluksen yleistä optimointia
     
